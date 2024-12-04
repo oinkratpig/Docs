@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"c66da5a863248bed","type":"text","text":"God of Fear and Hunger / Alll-mer","x":-272,"y":-180,"width":250,"height":60,"color":"3"},
+		{"id":"5a435c1477c3817e","type":"text","text":"God of Fear and Hunger / Alll-mer","x":-272,"y":-120,"width":250,"height":60,"color":"3"},
+		{"id":"e12c82f0799f5443","type":"text","text":"Alll-mer","x":-272,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"230a10fa781ecba3","type":"text","text":"Alll-mer","x":-272,"y":0,"width":250,"height":60,"color":"5"},
+		{"id":"d28e75883f387fcf","type":"text","text":"Alll-mer","x":-272,"y":60,"width":250,"height":60,"color":"5"},
+		{"id":"0683e45b8790fcb8","type":"text","text":"God of Fear and Hunger / Alll-mer","x":-272,"y":120,"width":250,"height":60,"color":"3"},
+		{"id":"13f41445c244428b","type":"text","text":"### Book Store","x":48,"y":-69,"width":250,"height":60},
+		{"id":"8816b14678b725d5","type":"text","text":"### Church of Alll-mer","x":48,"y":-9,"width":250,"height":60},
+		{"id":"24c341948d519510","type":"text","text":"### PRHVL Bop","x":48,"y":51,"width":250,"height":60},
+		{"id":"5252984263108635","type":"text","text":"### Donnovan's House","x":48,"y":111,"width":250,"height":78},
+		{"id":"9481c2e3af5ae422","type":"text","text":"### New Gods","x":358,"y":-39,"width":250,"height":60},
+		{"id":"2ac28a873a5fe954","type":"text","text":"### Train","x":48,"y":-189,"width":250,"height":60},
+		{"id":"0199ab345b4beb66","type":"text","text":"### Old Town","x":48,"y":-129,"width":250,"height":60},
+		{"id":"6a801a6de15d93ae","type":"text","text":"Easy access to Asymmetric Circle, New God circle, and the southern part of the map.","x":-620,"y":-65,"width":250,"height":118},
+		{"id":"3d3ebb0364ed31ad","type":"text","text":"Allows transportation through Mob spawns without having to use the Sewers.","x":-620,"y":53,"width":250,"height":134},
+		{"id":"e7cf68459efc90fa","type":"text","text":"Short walk to Old Town, West Prehevil, Church of Alll-mer, and Donnovan's House.","x":-620,"y":-182,"width":250,"height":117}
+	],
+	"edges":[
+		{"id":"65fadaea61f1740d","fromNode":"2ac28a873a5fe954","fromSide":"left","toNode":"c66da5a863248bed","toSide":"right"},
+		{"id":"d1c89dc2065287c7","fromNode":"0199ab345b4beb66","fromSide":"left","toNode":"5a435c1477c3817e","toSide":"right"},
+		{"id":"d2bd6f22a78375c8","fromNode":"e12c82f0799f5443","fromSide":"left","toNode":"e7cf68459efc90fa","toSide":"right"},
+		{"id":"cb4e038c6a63950f","fromNode":"13f41445c244428b","fromSide":"left","toNode":"e12c82f0799f5443","toSide":"right"},
+		{"id":"489357351ab8f188","fromNode":"d28e75883f387fcf","fromSide":"left","toNode":"3d3ebb0364ed31ad","toSide":"right"},
+		{"id":"2a6fe4fae798aa1b","fromNode":"8816b14678b725d5","fromSide":"left","toNode":"230a10fa781ecba3","toSide":"right"},
+		{"id":"22f337b61642e0b1","fromNode":"24c341948d519510","fromSide":"left","toNode":"d28e75883f387fcf","toSide":"right"},
+		{"id":"7dfc14d5cfa9943a","fromNode":"5252984263108635","fromSide":"left","toNode":"0683e45b8790fcb8","toSide":"right"},
+		{"id":"eaa9bdefa3371288","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"13f41445c244428b","toSide":"right"},
+		{"id":"7e3aee644191ca19","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"8816b14678b725d5","toSide":"right"},
+		{"id":"75413ab78e7eb80f","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"24c341948d519510","toSide":"right"},
+		{"id":"c60a144aa3274e38","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"5252984263108635","toSide":"right"},
+		{"id":"1eface92b321c966","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"0199ab345b4beb66","toSide":"right"},
+		{"id":"0951fb138b2b1923","fromNode":"9481c2e3af5ae422","fromSide":"left","toNode":"2ac28a873a5fe954","toSide":"right"},
+		{"id":"9c1bf903970beaf7","fromNode":"230a10fa781ecba3","fromSide":"left","toNode":"6a801a6de15d93ae","toSide":"right"}
+	]
+}

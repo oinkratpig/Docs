@@ -1,0 +1,391 @@
+# Chase
+---
+Perks that assist in chase or downing survivors.
+- **All-Shaking Thunder**
+	- Longer lunge.
+- **Bamboozle**
+	- Locks down vaults.
+- **Batteries Included**
+	- Faster movement speed.
+- **Beast of Prey**
+	- Auto-mindgames in long chases.
+- **Blood Echo**
+	- Exhaustion after hook.
+- **Bloodhound**
+	- Mid-chase tracking vs. injured survivors.
+- **Brutal Strength**
+	- Break pallets faster, meaning catching up is faster.
+- **Coup de Grace**
+	- Longer lunge.
+- **Cruel Limits**
+	- Automatic vault blocking.
+- **Dark Arrogance**
+	- Faster vault at the cost of longer stuns.
+- **Dissolution**
+	- Automatic pallet breaking.
+- **Dragon's Grip**
+	- Exposing on generator touch.
+- **Enduring**
+	- Shorter pallet stuns.
+- **Fire Up**
+	- Faster at doing a lot of things (most importantly breaking pallets).
+- **Forced Hesitation**
+	- Punish grouped-up survivors.
+- **Forced Penance**
+	- Forces survivors to be injured.
+- **Friends 'til the End**
+	- Exposing obsession.
+- **Game Afoot**
+	- Faster chases vs. the obsession.
+- **Genetic Limits**
+	- Exhaustion on injure.
+- **HEX: Blood Favor**
+	- Pallet blocking.
+- **HEX: Crowd Control**
+	- Vault blocking.
+- **HEX: Devour Hope**
+	- Exposing and movement speed.
+- **HEX: Haunted Ground**
+	- Exposing on totem cleanse..
+- **HEX: No One Escapes Death**
+	- Exposing during endgame.
+- **HEX: The Third Seal**
+	- Counters survivors' mid-chase aura perks (such as Windows of Opportunity).
+- **HEX: Two Can Play**
+	- Pallet/vault blinds may result in survivor pathing to wrong areas.
+- **Hubris**
+	- Exposing on stun/blind.
+- **Human Greed**
+	- A well-placed chest at a tile will provide permanent wallhacks.
+- **I'm All Ears**
+	- Mid-chase wallhacks.
+- **Iron Maiden**
+	- Exposing on locker leave.
+- **Languid Touch**
+	- Exhaustion on crow disturb.
+- **Machine Learning**
+	- MUCH faster movement speed.
+- **Make Your Choice**
+	- Exposing on unhook.
+- **Fearmonger**
+	- Exhaustion on leaving generator.
+- **Nemesis**
+	- Short wallhacks after stun.
+- **No Quarter**
+	- Force survivor(s) to stay injured on missed skillcheck.
+- **Play With Your Food**
+	- Movement speed.
+- **Rancor**
+	- Exposing obsession at endgame + mori.
+- **Rapid Brutality**
+	- Movement speed after hit.
+- **Save the Best for Last**
+	- Faster weapon wipe animation.
+- **Septic Touch**
+	- Exhaustion on nearby heals and counters mid-chase aura perks (such as Windows of Opportunity).
+- **Shadowborn**
+	- Movement speed after blinded.
+- **Spirit Fury**
+	- Instant pallet breaks.
+- **Starstruck**
+	- Exposing nearby survivors while carrying.
+- **Stridor**
+	- Easier tracking survivors mid-chase.
+- **Superior Anatomy**
+	- Much faster vaulting.
+- **Terminus**
+	- Permanent injures end-game.
+- **THWACK!**
+	- Mid-chase tracking.
+- **Unbound**
+	- Movement speed after injuring and vaulting.
+- **Unrelenting**
+	- Faster miss cooldown.
+- **Weave Attunement**
+	- Wallhacks on tiles with a dropped item.
+- **Zanshin Tactics**
+	- Wallhacks after survivor drops a pallet.
+# Info
+---
+Perks that give you information outside of chase.
+- **A Nurse's Calling**
+	- Nearby healing survivors.
+- **Alien Instinct**
+	- Farthest injured survivor after hooking.
+- **Awakened Awareness**
+	- Survivors nearby while carrying survivor.
+- **Barbecue & Chili**
+	- Far-away survivors after hooking.
+- **Bitter Murmur**
+	- All survivors after a generator is completed.
+- **Bloodhound**
+	- Better blood tracking.
+- **Call of Brine**
+	- Notifies if a recently-kicked generator is being worked on.
+- **Coulrophobia**
+	- Very likely to reveal nearby healing survivors due to missed skillchecks.
+- **Darkness Revealed**
+	- All survivors near every locker after Killer opens one.
+- **Dead Man's Switch**
+	- Blocked gen's aura is shown in white.
+- **Deadlock**
+	- Gen it has activated on is shown in white.
+- **Deathbound**
+	- Far-away survivors after healing.
+- **Deerstalker**
+	- Slugs.
+- **Discordance**
+	- Multiple survivors working on one gen.
+- **Dragon's Grip**
+	- Scream when marked generator is touched.
+- **Eruption**
+	- Screamy when boom-boom.
+- **Friends 'til the End**
+	- Location of one survivor after hook.
+- **Gearhead**
+	- Generators being repaired are revealed after someone is damaged.
+- **Grim Embrace**
+	- Obsession after full stacks reached.
+- **HEX: Face the Darkness**
+	- AAAAAA! AAAAAAAAAA! AAAAA!
+- **HEX: Huntress' Lullaby**
+	- More failed skillchecks, therefore more info.
+- **HEX: Retribution**
+	- On hex totem cleanse.
+- **Hoarder**
+	- On item pickup.
+- **Human Greed**
+	- Near a chest.
+- **Infectious Fright**
+	- Near the Killer after downing someone.
+- **Iron Maiden**
+	- Leaving a locker.
+- **Lethal Pursuer**
+	- Start of match.
+- **Merciless Storm**
+	- Failed skillchecks.
+- **Nowhere to Hide**
+	- Near gen after it is kicked.
+- **Oppression**
+	- Failed skillcheck.
+- **Overcharge**
+	- Failed skillcheck.
+- **Predator**
+	- Broke chase.
+- **Rancor**
+	- After generator is completed.
+- **Scourge Hook: Floods of Rage**
+	- After unhooked from Scourge Hook.
+- **Scourge Hook: Hangman's Trick**
+	- Near Scourge Hook while someone is being carried.
+- **Scourge Hook: Jagged Compass**
+	- Highest-progress gen after hooked on Scourge Hook.
+- **Spies from the Shadows**
+	- Disturbed a crow.
+- **Stridor**
+	- Louder breathing sounds.
+- **Surveillance**
+	- Generator stops regressing + gen repair sounds.
+- **Territorial Imperative**
+	- Went into basement.
+- **Thrilling Tremors**
+	- Working on a gen.
+- **THWACK!**
+	- Near Killer after they break a pallet/wall.
+- **Tinkerer**
+	- When almost done with gen.
+- **Trail of Torment**
+	- Revealed on deactivation.
+- **Ultimate Weapon**
+	- Near Killer after opening a locker.
+- **Unnerving Presence**
+	- Failed skillchecks.
+- **Weave Attunement**
+	- Near an item on the ground.
+- **Whispers**
+	- Near the Killer.
+# Slowdown
+---
+Perks that slow the game down for the survivors, allowing more time for the Killer.
+- **Blood Echo**
+	- Healing interrupts reset progress.
+- **Call of Brine**
+	- Faster generator regression (worthless, but technically true).
+- **Corrupt Intervention**
+	- Early-game slowdown.
+- **Coulrophobia**
+	- Slower healing and harder skillchecks.
+- **Dead Man's Switch**
+	- Blocks one generator at a time for a very, very long duration.
+- **Deadlock**
+	- Blocks highest-progress gen after one is completed.
+- **Dominance**
+	- Blocks chests and totems.
+- **Dying Light**
+	- Slower repair speed every hook (does not affect obsession).
+- **Eruption**
+	- Explodes all marked gens when someone is downed.
+- **Grim Embrace**
+	- Blocks all gens if someone is hooked for the first time.
+- **HEX: Huntress' Lullaby**
+	- Harder skillchecks.
+- **HEX: Pentimento**
+	- Punish cleansing totems with slower action speeds.
+- **HEX: Ruin**
+	- Automatic regression.
+- **HEX: The Third Seal**
+	- Blindness makes finding things harder/slower.
+- **HEX: Thrill of the Hunt**
+	- Slower to cleanse totems.
+- **HEX: Undying**
+	- Force an extra totem cleanse.
+- **HEX: Wretched Fate**
+	- Obsession is useless until cleansed.
+- **Knockout**
+	- Slugs are much harder to pick up.
+- **Leverage**
+	- Healing on hook is much slower.
+- **Merciless Storm**
+	- Missed MS skillchecks block the gen for a while.
+- **Fearmonger**
+	- Blindness makes finding things harder/slower.
+- **No Quarter**
+	- Self-healing may result in all of that time being wasted.
+- **No Way Out**
+	- Blocks exit gates.
+- **Oppression**
+	- Mass regression and possible failed skillcheck(s).
+- **Overcharge**
+	- Faster regression and possibility of a failed skillcheck.
+- **Pop Goes the Weasel**
+	- Gen regression after every hook.
+- **Remember Me**
+	- Slower exit gate progress (if not obsession).
+- **Scourge Hook: Gift of Pain**
+	- Slower healing and slower repair speed if healed.
+- **Scourge Hook: Pain Resonance**
+	- Highest-progress gen explodes when someone is hooked for the first time.
+- **Septic Touch**
+	- Blindness makes finding things harder/slower.
+- **Sloppy Butcher**
+	- Much slower healing and possibility of losing all progress.
+- **Surge**
+	- Gens explode near Killer when survivor downed.
+- **Thanatophobia**
+	- More injures = more slowdown.
+- **Thrilling Tremors**
+	- Blocks gens after a survivor is picked up.
+- **Ultimate Weapon**
+	- Blindness makes finding things harder/slower.
+- **Undone**
+	- Not even worth writing about.
+- **Unnerving Presence**
+	- Harder skillchecks.
+# Stealth
+---
+Perks that give the Killer stealth capabilities.
+- **Alien Instinct**
+	- Farthest injured survivor is oblivious.
+- **Dark Devotion**
+	- Terror radius transfers to obsession.
+- **Deathbound**
+	- Oblivious after healing.
+- **Furtive Chase**
+	- Stealth after hooking obsession.
+- **HEX: Plaything**
+	- Oblivious after being hooked.
+- **Hysteria**
+	- All injured survivors oblivious after someone is injured.
+- **Insidious**
+	- Camping stealth.
+- **Machine Learning**
+	- Stealth after marked gen is completed.
+- **Monitor & Abuse**
+	- Passive, small stealth affect.
+- **Tinkerer**
+	- Stealth when generator is almost completed.
+- **Trail of Torment**
+	- Stealth after kicking gen. Able to be deactivated by survivors.
+- **Unforeseen**
+	- Stealth after kicking gen. Active for a fixed amount of time then disables.
+# Quality of Life
+---
+Perks that make small things feel better.
+- **Agitation**
+	- Faster carrying movement speed.
+- **Franklin's Demise**
+	- Don't have to worry about items.
+- **Iron Grasp**
+	- Much less likely to have survivors wiggle off.
+- **Iron Maiden**
+	- Lockers are basically out of the question for survivors.
+- **Lethal Pursuer**
+	- Immediately know where to go at the start of the game.
+- **Lightborn**
+	- Don't have to worry about flashlights.
+- **Mad Grit**
+	- Don't have to worry about protection hits while carrying.
+- **Overwhelming Presence**
+	- Don't have to worry about items.
+- **Shattered Hope**
+	- Don't have to worry about boons.
+- **Unrelenting**
+	- Missing is nearly unpunished.
+- **Zanshin Tactics**
+	- All pallets/vaults are visible.
+# Endgame
+---
+Perks that are mostly useful after all of the generators have been completed.
+- **Batteries Included**
+	- Lots of completed generators during endgame.
+- **Blood Warden**
+	- Punishes survivors staying when exit gates are open and someone is hooked.
+- **Fire Up**
+	- Longer the game goes on, the stronger you become.
+- **HEX: No One Escapes Death**
+	- Instant-downs during endgame.
+- **No Way Out**
+	- Blocks exit gates.
+- **Rancor**
+	- Instant-down/mori during endgame.
+- **Remember Me**
+	- Much longer exit gate progression for everyone except obsession.
+- **Terminus**
+	- Permanent injure during endgame.
+# Synergistic
+---
+Perks that don't do much by themselves, but work great with other perks.
+- **Agitation**
+	- Carrying builds.
+- **Awakened Awareness**
+	- Carrying builds.
+- **Distressing**
+	- Terror Radius builds.
+- **Franklin's Demise**
+	- Item builds.
+- **HEX: Huntress' Lullaby**
+	- Skill check builds.
+- **Hoarder**
+	- Item builds (or with some Killers [like Xenomorph](https://www.youtube.com/watch?v=GHulq9BAGDE)).
+- **Iron Grasp**
+	- Carrying builds.
+- **Iron Maiden**
+	- Builds or Killers that open lockers a lot.
+- **Lethal Pursuer**
+	- Aura-revealing perks.
+- **Mad Grit**
+	- Carrying builds.
+- **Monitor & Abuse**
+	- Addons that lower Terror Radius distance.
+- **Nemesis**
+	- Obsession builds.
+- **Scourge Hook: Jagged Compass**
+	- Scourge Hooks.
+- **Scourge Hook: Monstrous Shrine**
+	- Basement builds.
+- **Undone**
+	- Skill check builds.
+- **Unforeseen**
+	- Terror Radius builds.
+- **Weave Attunement**
+	- Item builds.

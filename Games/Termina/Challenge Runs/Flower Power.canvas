@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"034d128969f6b85b","type":"text","text":"# Flower Power\n---\n## Rules\n- Fear & Hunger difficulty.\n- Any ending allowed.\n- NG+ skills are not allowed.\n- Playing intro is not allowed.\n- Advantageous mods or cheats are not allowed.\n- Party members **ARE** allowed, but they must follow the rules of the challenge. Auto-attacking party members such as Black Kalev, Ghouls, and Blood Golem are not allowed in combat. Black Kalev is allowed for sacrificing as long as he has not dealt any damage in combat.\n- Must play as Olivia.\n- The only damage allowed in the run must come from Hemlock or Condensed Hemlock.\n- Items/spells are allowed if they do not deal damage. Spells that theoretically _can_ deal damage but deal 0 are not allowed.\n- Damage dealt outside of combat (such as from guns or bear traps) is not allowed.","x":-207,"y":-138,"width":447,"height":674},
+		{"id":"97c7b95409981bba","type":"text","text":"+1 Gro-goroth and Sylvian if Radiating Soul skills have been unlocked.","x":-1465,"y":140,"width":250,"height":106},
+		{"id":"6354903a085ec4c4","type":"text","text":"### Outskirts House","x":-1085,"y":-87,"width":250,"height":60},
+		{"id":"cb34ae061eb2393d","type":"text","text":"### Woodsman's House","x":-1085,"y":-27,"width":250,"height":94},
+		{"id":"9a57c48090619e9b","type":"text","text":"### Church of Alll-mer","x":-1085,"y":66,"width":250,"height":60},
+		{"id":"8fae81ceb51a6fe0","type":"text","text":"### Mayor's Manor","x":-1085,"y":126,"width":250,"height":60},
+		{"id":"91194149ab0ce743","type":"text","text":"### Orphanage","x":-1085,"y":186,"width":250,"height":60},
+		{"id":"26efdc3e3a8d17fa","type":"text","text":"Sylvian","x":-1465,"y":-100,"width":250,"height":60,"color":"#e9bae7"},
+		{"id":"e7bb73551e6a6333","type":"text","text":"Vinushka (or Sylvian)","x":-1465,"y":-40,"width":250,"height":60,"color":"#3b8748"},
+		{"id":"f4140337b1408ff8","type":"text","text":"Sylvian","x":-1465,"y":20,"width":250,"height":60,"color":"#e9bae7"},
+		{"id":"7258605708c18a75","type":"text","text":"Sylvian","x":-1465,"y":80,"width":250,"height":60,"color":"#e9bae7"},
+		{"id":"d8426d280631bb9a","type":"text","text":"# Ideal Circle Locations","x":-468,"y":-139,"width":218,"height":84,"color":"3"},
+		{"id":"4de06f5549b9eb3e","type":"text","text":"## [[Ideal New God Circles.canvas|New Gods]]","x":-720,"y":-123,"width":181,"height":52},
+		{"id":"ef373a39809b32de","type":"text","text":"## Old Gods","x":-714,"y":33,"width":170,"height":66},
+		{"id":"2bdf4171c3642020","type":"text","text":"All other Old Gods' skills are useless for this run. This includes Golden Gates, which would only help obtain the Orphanage effigy. It's better to have the sigils open for restoration than have easier access to an already easy effigy.","x":-1920,"y":-68,"width":303,"height":208},
+		{"id":"ad0b57b004613ed1","type":"text","text":"Pinecone piggy :D","x":-1920,"y":140,"width":303,"height":50}
+	],
+	"edges":[
+		{"id":"e45df8f6f00c5ce1","fromNode":"91194149ab0ce743","fromSide":"left","toNode":"97c7b95409981bba","toSide":"right"},
+		{"id":"173c3c38793d376b","fromNode":"6354903a085ec4c4","fromSide":"left","toNode":"26efdc3e3a8d17fa","toSide":"right"},
+		{"id":"06240aa6faeee87b","fromNode":"ef373a39809b32de","fromSide":"left","toNode":"6354903a085ec4c4","toSide":"right"},
+		{"id":"8a8bea9382b40e29","fromNode":"cb34ae061eb2393d","fromSide":"left","toNode":"e7bb73551e6a6333","toSide":"right"},
+		{"id":"515c06d17e405f99","fromNode":"ef373a39809b32de","fromSide":"left","toNode":"cb34ae061eb2393d","toSide":"right"},
+		{"id":"79453678143dba94","fromNode":"9a57c48090619e9b","fromSide":"left","toNode":"f4140337b1408ff8","toSide":"right"},
+		{"id":"7e82163d319d4b4c","fromNode":"ef373a39809b32de","fromSide":"left","toNode":"9a57c48090619e9b","toSide":"right"},
+		{"id":"7c94c9d87732049e","fromNode":"8fae81ceb51a6fe0","fromSide":"left","toNode":"7258605708c18a75","toSide":"right"},
+		{"id":"c7c284ae1cc07520","fromNode":"ef373a39809b32de","fromSide":"left","toNode":"8fae81ceb51a6fe0","toSide":"right"},
+		{"id":"377badf0a5b17be5","fromNode":"ef373a39809b32de","fromSide":"left","toNode":"91194149ab0ce743","toSide":"right"},
+		{"id":"3cc8d47ef0ac22ce","fromNode":"26efdc3e3a8d17fa","fromSide":"left","toNode":"2bdf4171c3642020","toSide":"right"},
+		{"id":"3d19b8b35ab099a1","fromNode":"e7bb73551e6a6333","fromSide":"top","toNode":"26efdc3e3a8d17fa","toSide":"bottom"},
+		{"id":"093cfa8d3a1717ec","fromNode":"e7bb73551e6a6333","fromSide":"left","toNode":"ad0b57b004613ed1","toSide":"right"},
+		{"id":"d2902e00f7541a5f","fromNode":"f4140337b1408ff8","fromSide":"left","toNode":"2bdf4171c3642020","toSide":"right"},
+		{"id":"bfea6e6fb62d40c0","fromNode":"7258605708c18a75","fromSide":"left","toNode":"2bdf4171c3642020","toSide":"right"},
+		{"id":"590a1d3bfabac7bd","fromNode":"d8426d280631bb9a","fromSide":"bottom","toNode":"ef373a39809b32de","toSide":"right"},
+		{"id":"224c4fa9734762e2","fromNode":"d8426d280631bb9a","fromSide":"left","toNode":"4de06f5549b9eb3e","toSide":"right"}
+	]
+}

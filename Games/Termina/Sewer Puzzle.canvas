@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ab85290e872fc8fe","type":"file","file":"Games/Termina/Sewer Terminal Labeled.png","x":-260,"y":-160,"width":399,"height":179},
+		{"id":"1e977d1b8dccc18d","type":"text","text":"### Start of Puzzle","x":-164,"y":60,"width":208,"height":60,"color":"3"},
+		{"id":"e516b21908f97d77","type":"text","text":"_**B**_ + _**C**_","x":-114,"y":160,"width":108,"height":60,"color":"2"},
+		{"id":"28f46c37a70b9878","type":"text","text":"The letters shown correspond to the switches on the terminal that must be flipped **OFF** (red).","x":-465,"y":100,"width":250,"height":149},
+		{"id":"def8981f33feda85","type":"text","text":"Take ladder left of terminal, throw down ladder to the left and then follow path to the right move box blocking door. Take door down back to terminal.","x":81,"y":87,"width":250,"height":207},
+		{"id":"b9938be05167ea49","type":"text","text":"Take right door, follow path, and push box below where the water was flowing.","x":-185,"y":320,"width":250,"height":119},
+		{"id":"8387ced6cbce71e9","type":"text","text":"B + _**D**_","x":151,"y":349,"width":109,"height":60,"color":"2"},
+		{"id":"62bfb366fd16e8f8","type":"text","text":"_**A**_ + _**C**_","x":-323,"y":349,"width":108,"height":60,"color":"2"},
+		{"id":"974af40998a573ec","type":"text","text":"A + _**D**_","x":-465,"y":349,"width":109,"height":60,"color":"2"}
+	],
+	"edges":[
+		{"id":"abfd17e6bbdeb858","fromNode":"1e977d1b8dccc18d","fromSide":"bottom","toNode":"e516b21908f97d77","toSide":"top"},
+		{"id":"daf284750d4c338c","fromNode":"e516b21908f97d77","fromSide":"right","toNode":"def8981f33feda85","toSide":"left"},
+		{"id":"724703b8da3c6113","fromNode":"def8981f33feda85","fromSide":"bottom","toNode":"8387ced6cbce71e9","toSide":"top"},
+		{"id":"ed007d5ddff4cd5c","fromNode":"8387ced6cbce71e9","fromSide":"left","toNode":"b9938be05167ea49","toSide":"right"},
+		{"id":"289261494d1bc4f5","fromNode":"1e977d1b8dccc18d","fromSide":"left","toNode":"28f46c37a70b9878","toSide":"right"},
+		{"id":"7629d7e00685c49b","fromNode":"b9938be05167ea49","fromSide":"left","toNode":"62bfb366fd16e8f8","toSide":"right"},
+		{"id":"fd64dac6fcdb6581","fromNode":"28f46c37a70b9878","fromSide":"top","toNode":"ab85290e872fc8fe","toSide":"left"},
+		{"id":"23bffc7a20de1404","fromNode":"62bfb366fd16e8f8","fromSide":"left","toNode":"974af40998a573ec","toSide":"right"}
+	]
+}

@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "4c08156a20154975",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f73fc200505060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f988ac85cd377b4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Games/Termina/Sewer Puzzle.canvas",
+                "viewState": {
+                  "x": -67,
+                  "y": 139.5,
+                  "zoom": -0.36473720815588206
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Sewer Puzzle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "796d2f4eceb875a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ee24abe462ef3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e789b7ce0977171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4fa4b8cc9159b31",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "467de6225d04451b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fede1f1d9fa3837f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d8f7432fb1a5f45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b17fc75f3f262a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d4be2730354d642a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "651f7e6c2c619e49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cfe826403459e067",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "0a9ff634eda77bac",
+    "type": "floating",
+    "children": [
+      {
+        "id": "8681ac64fd30ac7e",
+        "type": "window",
+        "children": [
+          {
+            "id": "43d1fbe0f14d113c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8323784ed0a4e32f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Games/Dead by Daylight/Houndmaster Guide.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Houndmaster Guide"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8323784ed0a4e32f",
+  "lastOpenFiles": [
+    "Games/Termina/Sewer Puzzle.canvas",
+    "Games/Termina/Sewer Terminal Labeled.png",
+    "index.md",
+    "Games/Termina/Random Notes.md",
+    "Games/NO-SKIN.canvas",
+    "Games/Look Outside.md",
+    "Games/Dead by Daylight/Builds.canvas",
+    "Games/Dead by Daylight/Random Notes.canvas",
+    "Welcome.md"
+  ]
+}
